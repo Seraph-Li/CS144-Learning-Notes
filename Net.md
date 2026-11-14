@@ -1,3 +1,4 @@
+### 一些概念
 `Reliable bidirectional byte stream` 可靠双向字节流  
 数据可以双向传输（全双工），双方也均可随时断开连接
 
